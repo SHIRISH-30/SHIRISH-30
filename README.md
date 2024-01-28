@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Web Technologies**
 
-- 👨‍💻 All of my projects are available at [https://guileless-quokka-377358.netlify.app/](https://guileless-quokka-377358.netlify.app/)
+- 👨‍💻 Know More About Me ☺️ [https://guileless-quokka-377358.netlify.app/](https://guileless-quokka-377358.netlify.app/)
 
 - 💬 Ask me about **NodeJS,Express,MongoDB**
 
