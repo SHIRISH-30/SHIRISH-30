@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shirish-30" alt="shirish-30" /></a> </p>
 
-- 🌱 I’m currently learning **REACT JS**
+- 🌱 I’m currently learning **Web Technologies**
 
 - 👨‍💻 All of my projects are available at [https://gregarious-parfait-96f46d.netlify.app/](https://gregarious-parfait-96f46d.netlify.app/)
 
